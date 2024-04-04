@@ -5,55 +5,51 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
-                 <loc>index.html</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
+                 <loc>https://mini-drivhus.netlify.app/index.html</loc>
+                 <lastmod>2024-04-04T12:43:14+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>mold-removal.html</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
+                 <loc>https://mini-drivhus.netlify.app/drivhus.html</loc>
+                 <lastmod>2024-04-04T12:43:14+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>mold-testing.html</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
+                 <loc>https://mini-drivhus.netlify.app/plast-drivhus.html</loc>
+                 <lastmod>2024-04-04T12:43:14+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>mold-remediation.html</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
+                 <loc>https://mini-drivhus.netlify.app/vaeg-drivhus.html</loc>
+                 <lastmod>2024-04-04T12:43:14+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>mold-inspection-near-me.html</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
+                 <loc>https://mini-drivhus.netlify.app/selvvanding.html</loc>
+                 <lastmod>2024-04-04T12:43:14+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>mold-testing-1.html</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
+                 <loc>https://mini-drivhus.netlify.app/forspiring.html</loc>
+                 <lastmod>2024-04-04T12:43:14+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>mold-inspection-company.html</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
+                 <loc>https://mini-drivhus.netlify.app/vaekstlys.html</loc>
+                 <lastmod>2024-04-04T12:43:14+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>best-mold-inspectors-near-me.html</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
+                 <loc>https://mini-drivhus.netlify.app/privacy-policy.html</loc>
+                 <lastmod>2024-04-04T12:43:14+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>privacy-policy.html</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
+                 <loc>https://mini-drivhus.netlify.app/feed.xml</loc>
+                 <lastmod>2024-04-04T12:43:14+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.html</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
+                 <loc>https://mini-drivhus.netlify.app/sitemap.xml</loc>
+                 <lastmod>2024-04-04T12:43:14+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.xml</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
+                 <loc>https://mini-drivhus.netlify.app/sitemap.html</loc>
+                 <lastmod>2024-04-04T12:43:14+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>about-us.html</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>feed.xml</loc>
-                 <lastmod>2023-09-28T11:34:39+00:00</lastmod>
+                 <loc>https://mini-drivhus.netlify.app/about-us.html</loc>
+                 <lastmod>2024-04-04T12:43:14+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
